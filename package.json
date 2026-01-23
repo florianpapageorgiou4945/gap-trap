@@ -1,6 +1,6 @@
 {
   "name": "gap-trap",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
   "main": "src/index.js",
   "scripts": {
